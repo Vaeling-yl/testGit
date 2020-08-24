@@ -11,6 +11,7 @@ public class Demo {
 	
 	private void test() {
 		System.out.println("这是Vaeling的test方法");
+		System.out.println("1111");
 	}
 
 }
