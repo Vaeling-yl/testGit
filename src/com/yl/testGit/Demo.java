@@ -6,5 +6,9 @@ public class Demo {
 		System.out.println("hello world");
 
 	}
+	
+	private void test() {
+		System.out.println("这是Vaeling的test方法");
+	}
 
 }
