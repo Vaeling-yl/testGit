@@ -8,5 +8,9 @@ public class Demo {
 		System.out.println("你好");
 
 	}
+	
+	private void test() {
+		System.out.println("这是Vaeling的test方法");
+	}
 
 }
